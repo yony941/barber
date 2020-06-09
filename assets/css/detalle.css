@@ -1,0 +1,14 @@
+#contenedorFormulario{
+	margin-top: 20px;
+	background: #f3f3f3;
+	opacity: 98%
+
+}
+
+.col-form-label, .form-control{
+	margin-top: 5px;
+}
+
+img{
+	opacity: 99%
+}
